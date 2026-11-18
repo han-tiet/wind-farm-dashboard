@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# wind-farm-data
+Kelmarsh_WT_*.csv
+Kelmarsh_SCADA_*/*
